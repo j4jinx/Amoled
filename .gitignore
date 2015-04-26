@@ -1,0 +1,15 @@
+build.xml
+/.project
+/.settings
+/.externalToolBuilders
+/node_modules
+/.tmp
+/.DS_Store
+/bower_components
+/app
+/gulpfile-bkp.js
+myStore-Dev.iml
+testServer.js
+distServer.js
+/dist
+

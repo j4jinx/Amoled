@@ -1,0 +1,30 @@
+{
+  "name": "myStore-Dev",
+  "version": "0.0.0",
+  "authors": [
+    "Amol Meshram <amol.meshram@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fastclick": "~1.0.6",
+    "dom-delegate": "~2.0.3",
+    "normalize.css": "~3.0.3",
+    "page": "visionmedia/page.js#~1.6.1",
+    "hogan": "~3.0.2",
+    "grapnel": "~0.5.8",
+    "ftscroller": "master"
+  }
+}

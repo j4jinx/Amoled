@@ -1,0 +1,143 @@
+/*UTILS
+**********************/
+/* Make element full width */
+.u-full-width {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+/* Make sure elements don't run outside containers (great for images in columns) */
+.u-max-full-width {
+	max-width: 100%;
+	box-sizing: border-box;
+}
+
+/* Float either direction */
+.u-pull-right {
+	float: right;
+}
+
+.u-pull-left {
+	float: left;
+}
+
+/* Clear a float */
+.u-cf {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* COLOR
+***************************/
+.color--blue {
+	color: #3372df
+}
+
+.color--red {
+	color: #cb4437
+}
+
+.color--green {
+	color: #0f9d58
+}
+
+.color--yellow {
+	color: #f4b400
+}
+
+.color--blue-secondary {
+	color: #b7cdf4
+}
+
+.color--red-secondary {
+	color: #ebb6b0
+}
+
+.color--green-secondary {
+	color: #56efa5
+}
+
+.color--yellow-secondary {
+	color: #ffd45b
+}
+
+.color--gray-background {
+	color: #f0f0f0
+}
+
+.color--gray-keyline {
+	color: #e0e0e0
+}
+
+.color--gray {
+	color: rgba(0, 0, 0, .54)
+}
+
+.color--gray-dark {
+	color: rgba(0, 0, 0, .87)
+}
+
+.color--text {
+	color: #404040
+}
+
+.color--highlight {
+	color: #3372df
+}
+
+.color--warning {
+	color: #ffd45b
+}
+
+.color--danger {
+	color: #cb4437
+}
+
+.color--muted {
+	color: #737373
+}
+
+.color--remember {
+	color: #09829a
+}
+
+.color--learning {
+	color: #da2e75
+}
+
+.color--layouts {
+	color: #297ea9
+}
+
+.color--user {
+	color: #2c8566
+}
+
+.color--media {
+	color: #cf423a
+}
+
+.color--performance {
+	color: #7b5294
+}
+
+.color--layouts-secondary {
+	color: #89c4e2
+}
+
+.color--user-secondary {
+	color: #78d2b3
+}
+
+.color--media-secondary {
+	color: #edb8b5
+}
+
+.color--performance-secondary {
+	color: #c4add2
+}
+
+.whiteframe-z1 {
+	box-shadow: 0px 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
