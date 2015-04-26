@@ -12,4 +12,7 @@ myStore-Dev.iml
 testServer.js
 distServer.js
 /dist
+/.idea
+.idea
+idea
 
